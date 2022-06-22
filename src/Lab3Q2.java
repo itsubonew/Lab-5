@@ -25,6 +25,7 @@ public class Lab3Q2 {
 
 
 
+
 /*
 Create an ArrayList of Integers
 Fill the ArrayList with ten random numbers (1-50)
